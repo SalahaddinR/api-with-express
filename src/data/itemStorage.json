@@ -1,0 +1,33 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "task_id": 1,
+            "step": "Installation of Redux",
+            "completed": false
+        },
+        {
+            "id": 2,
+            "task_id": 1,
+            "step": "Implementing Redux in React App",
+            "completed": false
+        },
+        {
+            "id": 3,
+            "task_id": 1,
+            "step": "Creating Redux Store",
+            "completed": false
+        },
+        {
+            "id": 4,
+            "task_id": 1,
+            "step": "Connecting Redux Store to React App via Provider",
+            "completed": false
+        },{
+            "id": 5,
+            "task_id": 1,
+            "step": "Using Redux in  Functional Components",
+            "completed": false
+        }
+    ]
+}

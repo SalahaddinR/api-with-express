@@ -1,0 +1,26 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Learning Redux",
+            "description": "Watching online tutorial about redux library",
+            "deadline": {
+                "day": 1,
+                "month": 2,
+                "year": 2023
+            },
+            "completed": false
+        },
+        {
+            "id": 2,
+            "title": "Making 1000 push-ups",
+            "description": "going to gym or doing push-ups at home",
+            "deadline": {
+                "day": 25,
+                "month": 1,
+                "year": 2023
+            },
+            "completed": false
+        }
+    ]
+}
